@@ -106,7 +106,7 @@ Built entirely in **Power BI**, the dashboard provides an interactive and data-d
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](https://github.com/faisalreyaz/AI-IMPACTS-ON-JOBS-2030/blob/main/ai_impacts_on_jobs_2030_dashboard.png)
+![Dashboard Preview](https://github.com/faisalreyaz/AI-IMPACTS-ON-JOBS-2030/blob/main/AI%20Impact%20on%20Jobs%20-%202030.png)
 
 ---
 
